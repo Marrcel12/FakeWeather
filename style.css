@@ -1,0 +1,13 @@
+.box-main{
+    margin: auto;
+    width: 50vw;
+}
+.box-main h1{
+    text-align: center;
+
+}
+.box-main div {
+    padding: 1vh;
+    width: 50%;
+    margin: auto;
+}
